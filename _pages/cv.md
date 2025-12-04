@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Samantha Pochet - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,12 +8,13 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sep244@cornell.edu](mailto:sep244@cornell.edu) | | | **Phone:** +937 503 2295
 
 ---
 
 #### Objective
 Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+ 
 
 ---
 

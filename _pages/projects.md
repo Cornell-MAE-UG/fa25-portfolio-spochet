@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Samantha Pochet - Portfolio
 permalink: /projects/
 ---
 
