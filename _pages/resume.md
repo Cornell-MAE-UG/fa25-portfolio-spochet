@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samantha Pochet - Resume
-permalink: /resume/
+permalink: /cv/
 ---
 
 
