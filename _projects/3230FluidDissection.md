@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fluid Mechanical Dissection
+title: V-Twin Dissection
 description: MAE 3230 Fluid Mechanical Dissection
 technologies: [V-Twin Engine]
 image: /assets/images/3230fmd.jpg
