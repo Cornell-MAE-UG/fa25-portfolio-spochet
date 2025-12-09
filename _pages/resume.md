@@ -13,3 +13,13 @@ permalink: /cv/
 Click <a href="{{ "/assets/SPochet_resume.pdf" | relative_url }}">here</a> to view my Resume.
 
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
