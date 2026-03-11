@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-**Email:** [sep244@cornell.edu](mailto:sep244@cornell.edu) | | | **Phone:** +937 503 2295
+**Email:** [sep244@cornell.edu](mailto:sep244@cornell.edu) 
 
 ---
 ## Resume
