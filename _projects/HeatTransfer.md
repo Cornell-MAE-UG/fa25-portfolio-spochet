@@ -2,7 +2,6 @@
 layout: project
 title: Heat Transfer Assignment
 description: MAE 3240 Heat Transfer Assignment Reflection
-technologies: []
 image: /assets/images/heattransfer.png
 ---
 
@@ -17,3 +16,7 @@ Working through this derivation helped me understand where the heat equation act
 Click <a href="{{ "/assets/hthw3.pdf" | relative_url }}">here</a> for my assignment pdf.
 
 </p>
+<br>
+<br>
+<br>
+<br>

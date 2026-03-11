@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samantha Pochet - Portfolio
-permalink: /projects/
+permalink: /cv/
 ---
 
 <div class="gallery-container">
@@ -16,3 +16,8 @@ permalink: /projects/
     {% endfor %}
 </div>
 </div>
+
+<br>
+<br>
+<br>
+<br>
