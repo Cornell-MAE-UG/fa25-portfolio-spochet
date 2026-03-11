@@ -17,3 +17,6 @@ Working through this derivation helped me understand where the heat equation act
 Click <a href="{{ "/assets/hthw3.pdf" | relative_url }}">here</a> for my assignment pdf.
 
 </p>
+</br>
+</br>
+</br>
